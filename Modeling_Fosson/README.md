@@ -1,6 +1,6 @@
 # Modeling of Cyber-Physical Systems
 
-[Read the full report here](https://github.com/project-cps/Modeling_Fosson/report_modeling.pdf)
+[Read the full report here](https://github.com/mzulian00/project-cps/blob/main/Modeling_Fosson/report_modeling.pdf)
 
 ## 1. Implementation of the Iterative Shrinkage-Thresholding Operator (IST)
 We have implemented the IST operator and studied its effects by varying the parameters $\tau$, $\lambda$, and the number of sensors $q$
